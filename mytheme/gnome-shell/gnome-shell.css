@@ -1,0 +1,10 @@
+#panel {
+    background-color: transparent;
+    height: 22px;
+    font-size: 11px;
+}
+
+#panel .clock-display { 
+	font-size: 2pt;
+	color: transparent;	
+}
